@@ -1,4 +1,4 @@
-Geral
+    Geral
 
 Alt + 1: Focar aba de projetos
 Alt + Shift + Insert: Alterna entre modo de seleção de linha/coluna
